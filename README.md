@@ -1,16 +1,5 @@
-# dice_app_1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p>
+<img src="https://user-images.githubusercontent.com/119872080/222710437-50339a5a-f9a4-4b8d-a9a6-bf3daa807d22.png" height="30%" width="50%" >
+<img src="https://user-images.githubusercontent.com/119872080/222710440-2e74304c-c359-4713-af73-4c737553c1bf.png" height="30%" width="50%" >
+<img src="https://user-images.githubusercontent.com/119872080/222710443-49a67477-f85a-46f4-a948-f4e1c84e8661.png" height="30%" width="50%" >
+</p>
